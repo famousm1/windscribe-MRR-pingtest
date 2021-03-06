@@ -1,3 +1,8 @@
+wget https://github.com/showwin/speedtest-go/releases/download/v1.1.1/speedtest-go_1.1.1_Linux_x86_64.tar.gz
+tar -xvf speedtest-go_1.1.1_Linux_x86_64.tar.gz
+
+
+
 windscribe connect    Bukhansan | tee -a speedtestresults.txt
 sleep 5s
 ./speedtest-go | tee -a speedtestresults.txt
