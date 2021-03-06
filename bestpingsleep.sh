@@ -1,4 +1,4 @@
-windscribe connect    Bukhansan
+windscribe connect    Bukhansan | tee -a output.txt
 ping us-east01.miningrigrentals.com -c 15 | tee -a output.txt 
 sleep 10s
 
@@ -43,7 +43,7 @@ sleep 10s
 
 
 
-windscribe connect    Hangang 
+windscribe connect    Hangang  | tee -a output.txt
 ping us-east01.miningrigrentals.com -c 15 | tee -a output.txt 
 sleep 10s
 
@@ -87,7 +87,7 @@ ping ap-01.miningrigrentals.com -c 15 | tee -a output.txt
 sleep 10s
 
 
-windscribe connect    Metro
+windscribe connect    Metro | tee -a output.txt
 ping us-east01.miningrigrentals.com -c 15 | tee -a output.txt 
 sleep 10s
 
@@ -131,7 +131,7 @@ ping ap-01.miningrigrentals.com -c 15 | tee -a output.txt
 sleep 10s
 
 
-windscribe connect    Victoria
+windscribe connect    Victoria | tee -a output.txt
 ping us-east01.miningrigrentals.com -c 15 | tee -a output.txt 
 sleep 10s
 
@@ -175,7 +175,7 @@ ping ap-01.miningrigrentals.com -c 15 | tee -a output.txt
 sleep 10s
 
 
-windscribe connect    Ataturk
+windscribe connect    Ataturk | tee -a output.txt
 ping us-east01.miningrigrentals.com -c 15 | tee -a output.txt 
 sleep 10s
 
@@ -219,7 +219,7 @@ ping ap-01.miningrigrentals.com -c 15 | tee -a output.txt
 sleep 10s
 
 
-windscribe connect    Crumpets
+windscribe connect    Crumpets | tee -a output.txt
 ping us-east01.miningrigrentals.com -c 15 | tee -a output.txt 
 sleep 10s
 
@@ -263,7 +263,7 @@ ping ap-01.miningrigrentals.com -c 15 | tee -a output.txt
 sleep 10s
 
 
-windscribe connect    Custard
+windscribe connect    Custard | tee -a output.txt
 ping us-east01.miningrigrentals.com -c 15 | tee -a output.txt 
 sleep 10s
 
@@ -307,7 +307,7 @@ ping ap-01.miningrigrentals.com -c 15 | tee -a output.txt
 sleep 10s
 
 
-windscribe connect    Alphorn
+windscribe connect    Alphorn | tee -a output.txt
 ping us-east01.miningrigrentals.com -c 15 | tee -a output.txt 
 sleep 10s
 
@@ -351,7 +351,7 @@ ping ap-01.miningrigrentals.com -c 15 | tee -a output.txt
 sleep 10s
 
 
-windscribe connect    No Vampires
+windscribe connect    No Vampires | tee -a output.txt
 ping us-east01.miningrigrentals.com -c 15 | tee -a output.txt 
 sleep 10s
 
@@ -395,7 +395,7 @@ ping ap-01.miningrigrentals.com -c 15 | tee -a output.txt
 sleep 10s
 
 
-windscribe connect    Fjord    
+windscribe connect    Fjord     | tee -a output.txt
 ping us-east01.miningrigrentals.com -c 15 | tee -a output.txt 
 sleep 10s
 
@@ -439,7 +439,7 @@ ping ap-01.miningrigrentals.com -c 15 | tee -a output.txt
 sleep 10s
 
 
-windscribe connect    Canal
+windscribe connect    Canal | tee -a output.txt
 ping us-east01.miningrigrentals.com -c 15 | tee -a output.txt 
 sleep 10s
 
@@ -483,7 +483,7 @@ ping ap-01.miningrigrentals.com -c 15 | tee -a output.txt
 sleep 10s
 
 
-windscribe connect    Seine
+windscribe connect    Seine | tee -a output.txt
 ping us-east01.miningrigrentals.com -c 15 | tee -a output.txt 
 sleep 10s
 
@@ -527,7 +527,7 @@ ping ap-01.miningrigrentals.com -c 15 | tee -a output.txt
 sleep 10s
 
 
-windscribe connect    Castle
+windscribe connect    Castle | tee -a output.txt
 ping us-east01.miningrigrentals.com -c 15 | tee -a output.txt 
 sleep 10s
 
@@ -571,7 +571,7 @@ ping ap-01.miningrigrentals.com -c 15 | tee -a output.txt
 sleep 10s
 
 
-windscribe connect    Expo 67
+windscribe connect    Expo 67 | tee -a output.txt
 ping us-east01.miningrigrentals.com -c 15 | tee -a output.txt 
 sleep 10s
 
@@ -615,7 +615,7 @@ ping ap-01.miningrigrentals.com -c 15 | tee -a output.txt
 sleep 10s
 
 
-windscribe connect    Old Port
+windscribe connect    Old Port | tee -a output.txt
 ping us-east01.miningrigrentals.com -c 15 | tee -a output.txt 
 sleep 10s
 
@@ -659,7 +659,7 @@ ping ap-01.miningrigrentals.com -c 15 | tee -a output.txt
 sleep 10s
 
 
-windscribe connect    Comfort Zone
+windscribe connect    Comfort Zone | tee -a output.txt
 ping us-east01.miningrigrentals.com -c 15 | tee -a output.txt 
 sleep 10s
 
@@ -703,7 +703,7 @@ ping ap-01.miningrigrentals.com -c 15 | tee -a output.txt
 sleep 10s
 
 
-windscribe connect    The 6
+windscribe connect    The 6 | tee -a output.txt
 ping us-east01.miningrigrentals.com -c 15 | tee -a output.txt 
 sleep 10s
 
@@ -747,7 +747,7 @@ ping ap-01.miningrigrentals.com -c 15 | tee -a output.txt
 sleep 10s
 
 
-windscribe connect    Granville
+windscribe connect    Granville | tee -a output.txt
 ping us-east01.miningrigrentals.com -c 15 | tee -a output.txt 
 sleep 10s
 
@@ -791,7 +791,7 @@ ping ap-01.miningrigrentals.com -c 15 | tee -a output.txt
 sleep 10s
 
 
-windscribe connect    Vansterdam           
+windscribe connect    Vansterdam            | tee -a output.txt
 ping us-east01.miningrigrentals.com -c 15 | tee -a output.txt 
 sleep 10s
 
@@ -835,7 +835,7 @@ ping ap-01.miningrigrentals.com -c 15 | tee -a output.txt
 sleep 10s
 
 
-windscribe connect    Mountain
+windscribe connect    Mountain | tee -a output.txt
 ping us-east01.miningrigrentals.com -c 15 | tee -a output.txt 
 sleep 10s
 
@@ -879,7 +879,7 @@ ping ap-01.miningrigrentals.com -c 15 | tee -a output.txt
 sleep 10s
 
 
-windscribe connect    Ranch
+windscribe connect    Ranch | tee -a output.txt
 ping us-east01.miningrigrentals.com -c 15 | tee -a output.txt 
 sleep 10s
 
@@ -923,7 +923,7 @@ ping ap-01.miningrigrentals.com -c 15 | tee -a output.txt
 sleep 10s
 
 
-windscribe connect    Cub
+windscribe connect    Cub | tee -a output.txt
 ping us-east01.miningrigrentals.com -c 15 | tee -a output.txt 
 sleep 10s
 
@@ -967,7 +967,7 @@ ping ap-01.miningrigrentals.com -c 15 | tee -a output.txt
 sleep 10s
 
 
-windscribe connect    Snow
+windscribe connect    Snow | tee -a output.txt
 ping us-east01.miningrigrentals.com -c 15 | tee -a output.txt 
 sleep 10s
 
@@ -1011,7 +1011,7 @@ ping ap-01.miningrigrentals.com -c 15 | tee -a output.txt
 sleep 10s
 
 
-windscribe connect    Vice
+windscribe connect    Vice | tee -a output.txt
 ping us-east01.miningrigrentals.com -c 15 | tee -a output.txt 
 sleep 10s
 
@@ -1055,7 +1055,7 @@ ping ap-01.miningrigrentals.com -c 15 | tee -a output.txt
 sleep 10s
 
 
-windscribe connect    Empire
+windscribe connect    Empire | tee -a output.txt
 ping us-east01.miningrigrentals.com -c 15 | tee -a output.txt 
 sleep 10s
 
@@ -1099,7 +1099,7 @@ ping ap-01.miningrigrentals.com -c 15 | tee -a output.txt
 sleep 10s
 
 
-windscribe connect    Precedent
+windscribe connect    Precedent | tee -a output.txt
 ping us-east01.miningrigrentals.com -c 15 | tee -a output.txt 
 sleep 10s
 
@@ -1143,7 +1143,7 @@ ping ap-01.miningrigrentals.com -c 15 | tee -a output.txt
 sleep 10s
 
 
-windscribe connect    Dogg
+windscribe connect    Dogg | tee -a output.txt
 ping us-east01.miningrigrentals.com -c 15 | tee -a output.txt 
 sleep 10s
 
@@ -1187,7 +1187,7 @@ ping ap-01.miningrigrentals.com -c 15 | tee -a output.txt
 sleep 10s
 
 
-windscribe connect    Cobain
+windscribe connect    Cobain | tee -a output.txt
 ping us-east01.miningrigrentals.com -c 15 | tee -a output.txt 
 sleep 10s
 
@@ -1229,6 +1229,5 @@ sleep 10s
 
 ping ap-01.miningrigrentals.com -c 15 | tee -a output.txt 
 sleep 10s
-
 
 
