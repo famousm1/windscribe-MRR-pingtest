@@ -351,7 +351,7 @@ ping ap-01.miningrigrentals.com -c 15 | tee -a output.txt
 sleep 10s
 
 
-windscribe connect    No Vampires | tee -a output.txt
+windscribe connect    "No Vampires" | tee -a output.txt
 ping us-east01.miningrigrentals.com -c 15 | tee -a output.txt 
 sleep 10s
 
@@ -571,7 +571,7 @@ ping ap-01.miningrigrentals.com -c 15 | tee -a output.txt
 sleep 10s
 
 
-windscribe connect    Expo 67 | tee -a output.txt
+windscribe connect    "Expo 67" | tee -a output.txt
 ping us-east01.miningrigrentals.com -c 15 | tee -a output.txt 
 sleep 10s
 
@@ -615,7 +615,7 @@ ping ap-01.miningrigrentals.com -c 15 | tee -a output.txt
 sleep 10s
 
 
-windscribe connect    Old Port | tee -a output.txt
+windscribe connect    "Old Port" | tee -a output.txt
 ping us-east01.miningrigrentals.com -c 15 | tee -a output.txt 
 sleep 10s
 
@@ -659,7 +659,7 @@ ping ap-01.miningrigrentals.com -c 15 | tee -a output.txt
 sleep 10s
 
 
-windscribe connect    Comfort Zone | tee -a output.txt
+windscribe connect    "Comfort Zone" | tee -a output.txt
 ping us-east01.miningrigrentals.com -c 15 | tee -a output.txt 
 sleep 10s
 
@@ -703,7 +703,7 @@ ping ap-01.miningrigrentals.com -c 15 | tee -a output.txt
 sleep 10s
 
 
-windscribe connect    The 6 | tee -a output.txt
+windscribe connect    "The 6" | tee -a output.txt
 ping us-east01.miningrigrentals.com -c 15 | tee -a output.txt 
 sleep 10s
 
