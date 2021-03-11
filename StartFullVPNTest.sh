@@ -8,28 +8,29 @@
 
 #run a ping and speed test on stock internet, no VPN
 wget https://github.com/famousm1/windscribe-MRR-pingtest/raw/main/novpnspeed.sh
-./novpnspeed.sh
 
 sleep 10
 
 #run a speed test on all VPNs
 wget https://github.com/famousm1/windscribe-MRR-pingtest/raw/main/bestvpnspeedtest.sh
-./bestvpnspeedtest.sh
 
 sleep 10
 
 #run a ping test on Ethermine with all VPNs
 wget https://github.com/famousm1/windscribe-MRR-pingtest/raw/main/vpnethermineping.sh
-./vpnethermineping.sh
 
 sleep 10
 
 #run a ping test on HiveOn with all VPNs
 wget https://github.com/famousm1/windscribe-MRR-pingtest/raw/main/hiveonvpnping.sh
-./hiveonvpnping.sh
 
 sleep 10
 
 #run a ping test on MiningRigRentals with all VPNs
 wget https://github.com/famousm1/windscribe-MRR-pingtest/blob/main/vpnpingmrr.sh
+sleep 10
 ./vpnpingmrr.sh
+./hiveonvpnping.sh
+./vpnethermineping.sh
+./bestvpnspeedtest.sh
+./novpnspeed.sh
