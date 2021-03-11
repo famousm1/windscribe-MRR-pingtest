@@ -38,7 +38,7 @@ sleep 10
 #run a ping test on MiningRigRentals with all VPNs
 FILE=./vpnpingmrr.sh
 if [ ! -f "$FILE" ]; then
-wget https://github.com/famousm1/windscribe-MRR-pingtest/blob/main/vpnpingmrr.sh
+wget https://raw.githubusercontent.com/famousm1/windscribe-MRR-pingtest/main/vpnpingmrr.sh
 fi
 sleep 10
 
