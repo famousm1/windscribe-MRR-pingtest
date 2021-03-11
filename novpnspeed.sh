@@ -76,3 +76,8 @@ sleep 10
 ping us2.ethermine.org -c 20 | tee -a stocklatency.txt 
 sleep 10
 
+wget https://github.com/showwin/speedtest-go/releases/download/v1.1.1/speedtest-go_1.1.1_Linux_x86_64.tar.gz
+tar -xvf speedtest-go_1.1.1_Linux_x86_64.tar.gz
+
+sleep 10
+./speedtest-go | tee -a stocklatency.txt
