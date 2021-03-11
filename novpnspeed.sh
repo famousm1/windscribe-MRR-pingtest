@@ -1,3 +1,6 @@
+sudo windscribe disconnect
+sleep 10
+
 ping us-east01.miningrigrentals.com -c 20 | tee -a stocklatency.txt 
 sleep 10
 
