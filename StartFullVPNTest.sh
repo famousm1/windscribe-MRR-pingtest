@@ -48,8 +48,11 @@ chmod 777 vpnethermineping.sh
 chmod 777 bestvpnspeedtest.sh
 chmod 777 novpnspeed.sh
 
-./vpnpingmrr.sh
-./hiveonvpnping.sh
-./vpnethermineping.sh
-./bestvpnspeedtest.sh
+
+
+
 ./novpnspeed.sh
+./bestvpnspeedtest.sh
+./vpnethermineping.sh
+./hiveonvpnping.sh
+./vpnpingmrr.sh
