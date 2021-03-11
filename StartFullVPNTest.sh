@@ -5,7 +5,7 @@
 # Tries all of Windscribe's Pro and Free servers
 
 
-
+#checks if file exists and if it does not then it downloads the scripts
 #run a ping and speed test on stock internet, no VPN
 FILE=./novpnspeed.sh
 if [ ! -f "$FILE" ]; then
