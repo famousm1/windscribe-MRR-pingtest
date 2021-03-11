@@ -42,6 +42,12 @@ wget https://github.com/famousm1/windscribe-MRR-pingtest/blob/main/vpnpingmrr.sh
 fi
 sleep 10
 
+chmod 777 vpnpingmrr.sh
+chmod 777 hiveonvpnping.sh
+chmod 777 vpnethermineping.sh
+chmod 777 bestvpnspeedtest.sh
+chmod 777 novpnspeed.sh
+
 ./vpnpingmrr.sh
 ./hiveonvpnping.sh
 ./vpnethermineping.sh
