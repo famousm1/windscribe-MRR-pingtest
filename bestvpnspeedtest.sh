@@ -34,7 +34,7 @@ sleep 10
 ./speedtest-go | tee -a speedtestresults.txt
 sleep 10
 
-
+ 
 
 windscribe connect Barley | tee -a speedtestresults.txt
 sleep 10
