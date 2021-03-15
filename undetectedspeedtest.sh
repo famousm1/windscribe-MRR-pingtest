@@ -1,8 +1,3 @@
-FILE=./speedtest-go_1.1.1_Linux_x86_64.tar.gz
-if [ ! -f "$FILE" ]; then
-    wget https://github.com/showwin/speedtest-go/releases/download/v1.1.1/speedtest-go_1.1.1_Linux_x86_64.tar.gz
-tar -xvf speedtest-go_1.1.1_Linux_x86_64.tar.gz
-fi
 
 windscribe connect Glinda | tee -a UndetectedVpnSpeeds.txt
 sleep 2
